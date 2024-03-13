@@ -1,0 +1,15 @@
+[submodule "hub"]
+	path = hub
+	url = https://github.com/QuintusJoyal/LUMINI_HUB.git
+[submodule "switches"]
+	path = switches
+	url = https://github.com/QuintusJoyal/LUMINI_SWITCHES.git
+[submodule "outlets"]
+	path = outlets
+	url = https://github.com/QuintusJoyal/LUMINI_OUTLETS.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/QuintusJoyal/LUMINI_FRONTEND.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/QuintusJoyal/LUMINI_BACKEND.git
